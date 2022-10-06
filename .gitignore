@@ -63,7 +63,7 @@ db.sqlite3-journal
 
 # Flask stuff:
 instance/
-.webassets-cache
+.backendassets-cache
 
 # Scrapy stuff:
 .scrapy
@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/env
+/data
+/backend/config/credentials.py
