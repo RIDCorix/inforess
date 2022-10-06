@@ -131,3 +131,4 @@ dmypy.json
 /env
 /data
 /backend/config/credentials.py
+/conf/backend/credentials.py
